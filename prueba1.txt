@@ -1,0 +1,3 @@
+1.crear el fronted del login
+2. conectarlo a la base de datos
+3.crear el fronted del logout
